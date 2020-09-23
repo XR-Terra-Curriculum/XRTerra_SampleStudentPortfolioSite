@@ -1,7 +1,7 @@
 
 Site Viewable here:
 
-(xr-terra-curriculum.github.io/XRTerra_SampleStudentPortfolioSite)[https://xr-terra-curriculum.github.io/XRTerra_SampleStudentPortfolioSite/]
+[https://xr-terra-curriculum.github.io/XRTerra_SampleStudentPortfolioSite/](https://xr-terra-curriculum.github.io/XRTerra_SampleStudentPortfolioSite/)
 
 ---------
 
