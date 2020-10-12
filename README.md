@@ -1,6 +1,6 @@
 This is an HTML5 website that students of XR Terra may clone and customize to make their own portfolio websites.
 
-The Example Site Viewable here:
+The Example Site is Viewable here:
 
 [https://xr-terra-curriculum.github.io/XRTerra_SampleStudentPortfolioSite/](https://xr-terra-curriculum.github.io/XRTerra_SampleStudentPortfolioSite/)
 
